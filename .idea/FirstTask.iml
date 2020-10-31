@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/.idea/FirstProject/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/SecondProject/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/ThirdProject/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea/ForthProject/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
